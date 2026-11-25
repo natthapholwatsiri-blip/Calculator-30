@@ -5,7 +5,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#000A31"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:id="@+id/main"
+    >
 
 <!--    หน้าจอแสดงผล-->
     <TextView
